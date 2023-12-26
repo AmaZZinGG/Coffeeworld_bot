@@ -1,7 +1,7 @@
 import telebot
 from telebot import types
 # Создаем экземпляр бота
-bot = telebot.TeleBot('6181869879:AAH7QI8xddZgjlU7arEKuaE-No7O9a0EtAY')
+bot = telebot.TeleBot('тут должен быть telegram bot token, коммент я дам , токен я не дам')
 
 
 # Функция, обрабатывающая команду /start
